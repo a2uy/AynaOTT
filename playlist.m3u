@@ -1,0 +1,13 @@
+#EXTM3U
+# Auto-updated: 2025-11-07 09:34:17.391555 UTC
+
+#EXTINF:-1 tvg-logo="" group-title="Bengali",T Sports
+tracks-v1a1/mono.ts.m3u8?e=1762515261&token=425a0589d5341810ffb10c18161a8e1e&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b
+#EXTINF:-1 tvg-logo="" group-title="Bengali",Tara Jalsha
+tracks-v1a1/mono.ts.m3u8?e=1762515265&token=561b46279c2c290b1b0bc4305a0e1208&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b
+#EXTINF:-1 tvg-logo="" group-title="Bengali",Discovery Bangla
+# Failed to capture token
+#EXTINF:-1 tvg-logo="" group-title="Bengali",Nat Geo
+tracks-v1a1/mono.ts.m3u8?e=1762515271&token=ff4129876e206e9a781deffc284c8391&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b
+#EXTINF:-1 tvg-logo="" group-title="Bengali",Tara Plus
+tracks-v1a1/mono.ts.m3u8?e=1762515273&token=6624a5a89aa8fa8767c715eb487e209c&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b
